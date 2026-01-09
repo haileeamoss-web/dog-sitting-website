@@ -59,3 +59,17 @@ button {
   padding: 10px;
   cursor: pointer;
 }
+.book-button {
+  display: inline-block;
+  margin-top: 15px;
+  padding: 12px 20px;
+  background-color: #4CAF50;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+.book-button:hover {
+  background-color: #43a047;
+}
